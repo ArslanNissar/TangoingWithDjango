@@ -1,5 +1,8 @@
 # TangoingWithDjango
 
+
 Admin details:
-  emial:     arslan@email.com
+
+
+  email:     arslan@email.com
   password:  pass
