@@ -3,6 +3,6 @@
 
 Admin details:
 
-  username:  arslan
-  email:     arslan@email.com
-  password:  pass
+  1. username:  arslan
+  2. email:     arslan@email.com
+  3. password:  pass
