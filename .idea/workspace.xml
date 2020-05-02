@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33fe71e8-17da-48d3-8d05-f52a4e58e6f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tango_with_django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tango_with_django_project/rango/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/rango/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tango_with_django_project/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/rango/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bJXyTJyBvbM27fy9whtUkVNL5I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588371937170</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Chapter 4">
+      <created>1588373076550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588373076550</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -78,10 +90,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="959" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1588358410703" />
-    <state x="1192" y="152" key="CommitChangelistDialog2" timestamp="1588371936670">
+    <state x="1192" y="152" key="CommitChangelistDialog2" timestamp="1588373076116">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1192" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1588371936670" />
+    <state x="1192" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1588373076116" />
     <state x="1284" y="311" key="FileChooserDialogImpl" timestamp="1588358345419">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -106,10 +118,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1046" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1588352095761" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588372001158">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588373103671">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1588372001158" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1588373103671" />
     <state x="1233" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1588351438949">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
