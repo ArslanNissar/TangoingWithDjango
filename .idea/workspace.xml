@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33fe71e8-17da-48d3-8d05-f52a4e58e6f3" name="Default Changelist" comment="Chapter 6">
+    <list default="true" id="33fe71e8-17da-48d3-8d05-f52a4e58e6f3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/rango/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/rango/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tango_with_django_project/rango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/rango/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tango_with_django_project/rango/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/rango/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tango_with_django_project/templates/rango/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/templates/rango/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tango_with_django_project/templates/rango/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/templates/rango/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tango_with_django_project/templates/rango/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tango_with_django_project/templates/rango/index.html" afterDir="false" />
     </list>
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -52,10 +50,10 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Software\Uni\Year1\DjangoProjectAN\tango_with_django_project\rango" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Software\Uni\Year1\DjangoProjectAN\tango_with_django_project\rango" />
     </key>
   </component>
@@ -112,24 +110,32 @@
       <option name="project" value="LOCAL" />
       <updated>1588524426489</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Chapter 7">
+      <created>1588530293017</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588530293018</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 4" />
     <MESSAGE value="Chapter 5" />
     <MESSAGE value="Chapter 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6" />
+    <MESSAGE value="Chapter 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 7" />
   </component>
   <component name="WindowStateProjectService">
     <state x="959" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588358410703">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="959" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1588358410703" />
-    <state x="1192" y="152" key="CommitChangelistDialog2" timestamp="1588524432851">
+    <state x="1192" y="152" key="CommitChangelistDialog2" timestamp="1588530292461">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1192" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1588524432851" />
+    <state x="1192" y="152" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1588530292461" />
     <state x="1284" y="311" key="FileChooserDialogImpl" timestamp="1588381776843">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -162,10 +168,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1046" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1588352095761" />
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588524451349">
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2" timestamp="1588530301279">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1588524451349" />
+    <state x="1129" y="289" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1588530301279" />
     <state x="1233" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1588530269858">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
